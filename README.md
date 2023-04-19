@@ -47,7 +47,4 @@ smtp_login => myshopuz@zohomail.com
 ```
 smtp_password => ********
 ```
-```
-MAIL_ENCRYPTION=ssl
-```
 
