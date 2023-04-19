@@ -18,30 +18,36 @@ This project prepared for portfolio. This project for Online Hour Shop.
 
 To change the code you are to appeal [Hamidullo Rahmonberdiyev](https://t.me/hamidullo_rahmonberdiyev).
 
-## Database
+# Database
+
+```
+Mysql
+```
+
+## Params
 
 ``` 
-DB_HOST=mysql 
+admin_email => hamidullo0760@gmail.com
 ```
 ```
-MAIL_MAILER=smtp
+pagination => 3
 ```
 ```
-MAIL_HOST=smtp.zoho.com
+smtp_host => smtp.zoho.com
 ```
 ```
-MAIL_PORT=465
+smtp_port' => 465
 ```
 ```
-MAIL_USERNAME=myshopuz@zohomail.com
+smtp_protocol => ssl
 ```
 ```
-MAIL_PASSWORD=********
+smtp_login => myshopuz@zohomail.com
+```
+```
+smtp_password => ********
 ```
 ```
 MAIL_ENCRYPTION=ssl
-```
-```
-MAIL_FROM_ADDRESS="myshopuz@zohomail.com"
 ```
 
